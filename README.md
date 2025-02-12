@@ -12,4 +12,5 @@ Dynamic front-end developer with expertise in React.js, JavaScript, and responsi
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/areeba-majid04/)
 - [PortFolio](https://areebamajid-15.github.io/AreebaMajid/)
+- [Email](mailto:areebamajid04@gmail.com)
 
