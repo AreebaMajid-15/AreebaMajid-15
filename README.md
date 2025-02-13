@@ -4,10 +4,10 @@ Dynamic front-end developer with expertise in React.js, JavaScript, and responsi
 
 ## Here are some ideas to get you started:
 - 🌱 I’m currently learning stuff to be a Full-Stack Web Developer!
-- 👯 I’m looking to collaborate on ...React.JS
-- 💬 Ask me about ...HTML|CSS|JavaScript|React
+- 👯 I’m looking to collaborate on React.JS
+- 💬 Ask me about HTML|CSS|JavaScript|React|Redux
 - 📫 How to reach me:- [Email](mailto:areebamajid04@gmail.com) ||  [LinkedIn](https://www.linkedin.com/in/areeba-majid04/)
-- 😄 Pronouns: ... She/Her
+- 😄 Pronouns: She/Her
 
 
 ## 🔧 Technologies & Tools
