@@ -1,6 +1,15 @@
-# Hi there, I'm Areeba Majid 👋
+*Hello👋, I'm Areeba Majid*
 
-Dynamic front-end developer with expertise in React.js, JavaScript, and responsive web design. Proficient in integrating frontend components with server-side APIs, optimizing web applications. 
+Dynamic front-end developer with expertise in React.js, JavaScript, and responsive web design. Proficient in integrating frontend components with server-side APIs, optimizing web applications. I have a keen eye for detail and a dedication to clean, efficient code. Quick learner, adept at mastering new tech stacks efficiently and enhancing development workflows collaboratively.
+Here are some ideas to get you started:
+
+🌱 I’m currently learning stuff to be a Full-Stack Web Developer!
+👯 I’m looking to collaborate on ...React.JS
+🤔 I’m looking for help with ...
+💬 Ask me about ...HTML|CSS|JavaScript|React
+📫 How to reach me: ...email: areebamajid04@gmail.com
+😄 Pronouns: ...She/Her
+
 ## 🔧 Technologies & Tools
 - JavaScript
 - React
