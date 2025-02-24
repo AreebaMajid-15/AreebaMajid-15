@@ -11,12 +11,12 @@ Dynamic front-end developer with expertise in React.js, JavaScript, and responsi
 
 
 ## 🔧 Technologies & Tools
+- HTML5, CSS
 - JavaScript
 - React
 - Redux
 - Python
-- CSS, HTML
-- C++ ,C
+- C ,C++
 - DSA
 
 ## Let's Connect
